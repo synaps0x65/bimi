@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 28.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.2" baseProfile="tiny-ps" id="Layer_1"
+<svg version="1.2" baseProfile="tiny" id="Layer_1"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 300"
 	 xml:space="preserve">
-<title>Synapse</title>
-<g>
-	<rect x="0" y="0" fill="#FFFFFF" width="300" height="300"/>
-	<path d="M301,1v300H1V1H301 M302,0H0v302h302V0L302,0z"/>
-</g>
+<title>logo</title>
+<rect fill="#FFFFFF" width="300" height="300"/>
 <g>
 	<path d="M43.052,162.54c0.06-4.02,0.12-8.1-0.12-12.12l1.62-0.12c1.02,7.739,5.459,12.18,12.12,12.18c4.439,0,8.58-1.98,8.58-6.78
 		c0-5.28-5.16-7.56-10.38-10.14c-5.939-2.939-11.639-6.12-11.639-12.239c0-5.64,4.8-10.319,13.319-10.319
@@ -49,35 +46,5 @@
 		c5.76,0,11.039,2.94,11.1,10.68l-0.36,0.6h-18.359c-0.06,0.48-0.06,0.96-0.06,1.38c0,6.42,3.239,12.42,10.079,12.42
 		c3.54,0,6.06-1.62,7.92-3.78L258.268,159.061z M239.368,145.801h11.46c0.84,0,1.14-0.06,1.14-1.38c0-3.3-1.86-5.88-5.58-5.88
 		C242.068,138.541,240.088,142.141,239.368,145.801z"/>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
 </g>
 </svg>
